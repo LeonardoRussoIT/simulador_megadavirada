@@ -17,7 +17,7 @@ Certifique-se de ter o Python instalado em seu sistema.
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/loteria-python.git
+    git clone https://github.com/LeonardoRussoIT/simulador_megadavirada.git
     ```
 
 2. Navegue até o diretório do projeto:
