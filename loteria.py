@@ -43,4 +43,4 @@ else:
     print('Não ganhou :(')
     sleep(1)
     print(f'Os números sorteados foram: {numeros_sorteados}')
-    print(f'Sua melhor jogada foi {melhor_jogada}, com {max_acertos} acertos')
+    print(f'Sua melhor jogada foi {melhor_jogada}, com {max_acertos} acerto(s)')
